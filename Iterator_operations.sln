@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Iterator_operations", "Iterator_operations.vcxproj", "{DB7F73A7-858B-49A5-BDF3-A71B0784412F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Debug|x64.ActiveCfg = Debug|x64
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Debug|x64.Build.0 = Debug|x64
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Debug|x86.Build.0 = Debug|Win32
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Release|x64.ActiveCfg = Release|x64
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Release|x64.Build.0 = Release|x64
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Release|x86.ActiveCfg = Release|Win32
+		{DB7F73A7-858B-49A5-BDF3-A71B0784412F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57BB16A5-6ED6-4A46-8BF8-2777F5C89867}
+	EndGlobalSection
+EndGlobal
